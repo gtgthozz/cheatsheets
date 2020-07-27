@@ -15,7 +15,7 @@ introduction: |
 #   echo ""
 #   echo "\`\`\`"
 # 
-#   echo Hamburger | figlet -f $name -w 2000
+#   echo gtgt | figlet -f $name -w 2000
 # 
 #   echo "\`\`\`"
 #   echo "{: .-figlet}"
